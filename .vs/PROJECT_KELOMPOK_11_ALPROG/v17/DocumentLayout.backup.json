@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\TUGAS \u0026 MATERI SEM 3\\PRAKTIK ALGORITHM\\PROJECT_KELOMPOK_11_ALPROG\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E3C1FE5A-3B8D-4515-8335-AF713DCD754D}|PROJECT_KELOMPOK_11_ALPROG\\PROJECT_KELOMPOK_11_ALPROG.vcxproj|D:\\TUGAS \u0026 MATERI SEM 3\\PRAKTIK ALGORITHM\\PROJECT_KELOMPOK_11_ALPROG\\PROJECT_KELOMPOK_11_ALPROG\\PROJECT_KELOMPOK_11_ALPROG.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E3C1FE5A-3B8D-4515-8335-AF713DCD754D}|PROJECT_KELOMPOK_11_ALPROG\\PROJECT_KELOMPOK_11_ALPROG.vcxproj|solutionrelative:PROJECT_KELOMPOK_11_ALPROG\\PROJECT_KELOMPOK_11_ALPROG.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PROJECT_KELOMPOK_11_ALPROG.cpp",
+              "DocumentMoniker": "D:\\TUGAS \u0026 MATERI SEM 3\\PRAKTIK ALGORITHM\\PROJECT_KELOMPOK_11_ALPROG\\PROJECT_KELOMPOK_11_ALPROG\\PROJECT_KELOMPOK_11_ALPROG.cpp",
+              "RelativeDocumentMoniker": "PROJECT_KELOMPOK_11_ALPROG\\PROJECT_KELOMPOK_11_ALPROG.cpp",
+              "ToolTip": "D:\\TUGAS \u0026 MATERI SEM 3\\PRAKTIK ALGORITHM\\PROJECT_KELOMPOK_11_ALPROG\\PROJECT_KELOMPOK_11_ALPROG\\PROJECT_KELOMPOK_11_ALPROG.cpp*",
+              "RelativeToolTip": "PROJECT_KELOMPOK_11_ALPROG\\PROJECT_KELOMPOK_11_ALPROG.cpp*",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwGYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-04T13:38:37.235Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
